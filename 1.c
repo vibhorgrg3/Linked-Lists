@@ -117,5 +117,5 @@ void _linear_search(struct node *first){
 		}
 		p=p->next;
 	}
-	printf("\nNot Found :( :( \n");
+//	printf("\nNot Found :( :( \n");
 }
